@@ -1,4 +1,24 @@
-I worked on a Flight Fare Prediction project using the Random Forest algorithm to estimate ticket prices based on features like airline,
-source, destination, departure time, and duration. I handled data preprocessing, feature engineering, and model tuning to improve accuracy.
-Random Forest helped capture complex patterns and reduce overfitting. This project sharpened my skills in regression modeling and data interpretation, 
-and I translated the results into actionable insights for pricing strategies and travel platforms.
+Flights Fare Prediction
+A machine learning project to predict airline ticket prices based on historical flight data. It includes data preprocessing, feature engineering, and model building using regression techniques.
+
+Key Features
+Handles missing values and encodes categorical features
+
+Extracts date/time features from flight schedules
+
+Uses pipelines for clean preprocessing and modeling
+
+Tests multiple models: Linear Regression, Random Forest, SVR, Decision Tree
+
+Evaluates models with RMSE and 
+R
+2
+R 
+2
+  metrics
+
+Usage
+Run the Jupyter notebook to explore data, train models, and evaluate results.
+
+Technologies
+Python, pandas, scikit-learn, matplotlib, seaborn
