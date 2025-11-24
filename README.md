@@ -11,11 +11,7 @@ Uses pipelines for clean preprocessing and modeling
 Tests multiple models: Linear Regression, Random Forest, SVR, Decision Tree
 
 Evaluates models with RMSE and 
-R
-2
-R 
-2
-  metrics
+R^2 metrics
 
 Usage
 Run the Jupyter notebook to explore data, train models, and evaluate results.
